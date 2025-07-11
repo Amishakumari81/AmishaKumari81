@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React,Dsa,Nextjs.**
 
-- 📫 How to reach me **amishaKumari5296@gmail.com**
-
 - ⚡ Fun fact **⚡ Fun fact: My code runs perfectly… until someone watches me 👀**
 
 <h3 align="left">Connect with me:</h3>
@@ -21,4 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amishakumari81&show_icons=true&locale=en" alt="amishakumari81" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amishakumari81&" alt="amishakumari81" /></p>
-
